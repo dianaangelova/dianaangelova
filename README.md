@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Java at Softuni.
 
 <!--
 **dianaangelova/dianaangelova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
